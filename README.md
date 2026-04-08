@@ -1,0 +1,2 @@
+# RAG
+retrival argumented genration 
