@@ -1,0 +1,5 @@
+
+Python is a popular, high-level programming language known for its simple and readable syntax.
+It is widely used in web development, data analysis, machine learning, automation, and scripting.
+Python has a large ecosystem of libraries such as pandas, NumPy, and scikit-learn, which makes development faster.
+Because of its beginner-friendly design and strong community support, Python is a great language to learn and use in real projects.

@@ -1,0 +1,5 @@
+
+Software engineering focuses on building reliable, maintainable, and scalable systems.
+Version control with Git helps teams collaborate and track changes effectively.
+Testing strategies include unit tests, integration tests, and end-to-end tests to reduce defects.
+Clean code, modular design, and documentation improve long-term project quality.

@@ -1,0 +1,5 @@
+
+Machine learning enables systems to learn patterns from data without being explicitly programmed for every rule.
+Common categories include supervised learning, unsupervised learning, and reinforcement learning.
+Model evaluation uses metrics such as accuracy, precision, recall, and F1-score depending on the task.
+Good feature engineering and proper validation are critical for reliable model performance.

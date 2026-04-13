@@ -1,0 +1,5 @@
+
+Data science combines statistics, programming, and domain knowledge to extract useful insights from data.
+Typical workflows include data collection, cleaning, exploration, modeling, and communication of results.
+Tools like pandas, NumPy, matplotlib, and Jupyter notebooks are commonly used by data professionals.
+Clear problem definition and high-quality data are key to successful data science projects.

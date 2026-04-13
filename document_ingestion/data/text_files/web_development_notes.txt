@@ -1,0 +1,5 @@
+
+Web development includes frontend, backend, and database components working together.
+Frontend technologies like HTML, CSS, and JavaScript create user interfaces in the browser.
+Backend frameworks such as Django and Flask handle business logic, APIs, and server-side processing.
+Databases like PostgreSQL or MySQL store and manage application data efficiently.
